@@ -6,9 +6,9 @@ const Hero = () => {
       <div id="main" >
         <div id="box1"></div>
         <div id="box2">
-          <div id="text">
+          <div id="text" className='mt-4'>
             Dominate the Game
-            <h1 className="text-2xl pl-2 mt-4 text-gray-600">
+            <h1 className="text-2xl pl-2 mt-8 text-gray-600">
             Pixel Pulse brings you elite gaming gear engineered to champions. 
             </h1>
             <h1 className="text-2xl pl-2 text-gray-600">
