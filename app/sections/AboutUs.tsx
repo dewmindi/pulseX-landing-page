@@ -5,8 +5,9 @@ const AboutUs = () => {
   return (
     <div id="aboutUs" className="section">
       <div className="img">
-        <ParallalxImage src="/portrait1.jpg" alt=""/>
-        <div className="about-content">
+        <img src="/portrait1.jpg" alt=""/>
+      </div>
+      <div className="about-content">
           <h2 className=" text-white">About Us</h2>
           <h1>Fueled by Passion. Powered by Innovation.</h1>
           <p className="">
@@ -26,7 +27,6 @@ const AboutUs = () => {
             before.
           </p>
         </div>
-      </div>
     </div>
   );
 };

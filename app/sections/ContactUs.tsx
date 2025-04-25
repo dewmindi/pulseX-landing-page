@@ -6,7 +6,7 @@ const ContactUs = () => {
   return (
     <div className="section text-white">
       <div className="img">
-        <ParallalxImage src="/portrait2.jpg" alt="" />
+        <img src="/portrait3.jpg" alt="" />
       </div>
       
     </div>
